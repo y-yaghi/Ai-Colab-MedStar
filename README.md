@@ -1,1 +1,11 @@
 # Ai-Colab-MedStar
+
+## Internship Experience at MedStar Health AI CoLab
+
+During the summers of 2024 and 2025, I interned at MedStar Health’s AI CoLab, an interdisciplinary research program focused on applying artificial intelligence and machine learning to biomedical and healthcare challenges. These internships provided me with hands-on experience in working with large, complex medical datasets, developing predictive models, and collaborating with healthcare professionals and data scientists to address pressing health problems.
+
+In 2024, my projects focused on maternal and cardiovascular health. I investigated associations between systemic lupus erythematosus (SLE) markers and clinical outcomes, explored how social determinants of health influence maternal risk, and developed a machine learning model to examine the relationship between family history of cardiometabolic disease and preeclampsia incidence. Using Python and libraries such as pandas, scikit-learn, and matplotlib, I performed data cleaning, exploratory data analysis, predictive modeling, and visualization. These projects deepened my technical expertise while highlighting the potential of AI to uncover health disparities and inform patient care
+
+In 2025, I expanded this work by studying the relationship between kidney function, β-cell dysfunction, and type 2 diabetes using NHANES data. My group built and compared models including Random Forest, XGBoost, and LightGBM, with Random Forest achieving the best performance (R² = 0.85). We identified renal biomarkers (eGFR, BUN), albumin-to-creatinine ratio, age, and socioeconomic status as critical predictors of β-cell dysfunction. Alongside the group project, I also developed interactive Jupyter Notebook materials for an AI/biostatistics summer workshop, enabling students to practice data preprocessing, EDA, and feature engineering
+
+Across both internships, I strengthened my skills in machine learning, statistical modeling, and data visualization, while also gaining valuable experience in research writing, collaboration, and presentation. These experiences not only reinforced my passion for healthcare data science but also sharpened my ability to translate technical findings into insights with clinical and social impact.
